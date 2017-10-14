@@ -12,8 +12,10 @@ public class WheelOfFortune {
   /**
    * @param args the command line arguments
    */
-  public static void main(String[] args) {
-      System.out.println("Hello!");
+    public static void main(String[] args) {
+	System.out.println("Hello!");
+	System.out.println("Hello! -Jennifer A'Harrah, test commit");
+        System.out.println("Test commit #2, jka5240");
     
   }
   
